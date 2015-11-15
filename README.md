@@ -1,2 +1,2 @@
 # coursera-ml
-Exercise code for machine learning class
+Exercise code for stanford machine learning class
